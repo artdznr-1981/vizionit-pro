@@ -28,7 +28,7 @@ VizionIt Pro replaces that entire workflow with a single product photo and AI.
 
 ## Demo
 
-> 🎬 **[Watch the full demo on LinkedIn →](YOUR_LINKEDIN_POST_URL)**
+> 🎬 **[Watch the full demo on LinkedIn →](https://www.linkedin.com/posts/activity-7440469082165936128-fOCg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAt0dNEBiwKlYp15VgovJtKZU8Xpx-FQkoA)**
 
 ---
 
@@ -157,7 +157,7 @@ This repository contains the frontend application code. The backend placement en
 
 Built by **Susan McLean Nangle**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/susanmcleandesign)
 
 ---
 
