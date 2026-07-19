@@ -14,6 +14,8 @@
 
 </div>
 
+> **Related:** For the product overview, case study, and demo, see [vizionit-pro-showcase](https://github.com/artdznr-1981/vizionit-pro-showcase). This repo contains the public frontend source; the backend AI pipeline is proprietary.
+
 ---
 
 ## The Problem
