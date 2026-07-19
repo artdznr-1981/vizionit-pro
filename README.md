@@ -117,11 +117,11 @@ Import product specifications from `.xlsx` or `.csv` files — auto-maps columns
 
 ### Key Engineering Challenges Solved
 
-**Precise Fixture Placement** — Generative image models default to "hero product" composition, placing fixtures in the foreground instead of their correct architectural position. VizionIt Pro uses a custom multi-step pipeline to achieve accurate placement that respects real-world installation standards.
+**Precise Fixture Placement — Generative image models default to "hero product" composition, placing fixtures in the foreground instead of their correct architectural position. VizionIt Pro uses a custom multi-step pipeline to achieve accurate placement that respects real-world installation standards.
 
 **Consistent Marketing Copy** — A separated image + copy architecture ensures every room scene gets consistent, high-quality marketing descriptions regardless of the image generation model's text output variability.
 
-**13 × 12 Placement Matrix** — Each fixture category behaves differently in each room. A mini-pendant hangs in a row of three over a kitchen island but appears as a pair flanking a bed. A bath fixture mounts above the mirror as a single bar or flanks it as a pair depending on the light count. All 156 combinations are handled with specific rules.
+**13 × 12 Placement Matrix** — Each fixture category behaves differently in each room, so a single "place the fixture" instruction doesn't work. The engine resolves the correct treatment for every fixture-category × room combination — reasoning over factors like quantity (single vs. paired vs. grouped), mounting height, focal-point alignment, surface anchoring, and framing. All 156 combinations are handled by proprietary rules in the backend.
 
 ---
 
