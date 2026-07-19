@@ -50,12 +50,12 @@ This is VizionIt Pro's key differentiator. Generic AI tools default to "hero pro
 
 | Category | Placement Intelligence |
 |---|---|
-| Mini-Pendant | Row of 3 over kitchen island (Rule of Three), pair flanking bed, pair flanking mirror |
-| Bath Fixture | 1-light: pair flanking mirror · 2/3/4-light: centered above mirror at correct width |
-| Wall Sconce | Flanking headboard, fireplace, or artwork as matched pairs |
-| Chandelier | Centered over dining table with perspective alignment |
-| Floor Lamp | Corner placement with surface anchoring |
-| Outdoor Post | Symmetrical pairs flanking driveway or walkway |
+| Mini-Pendant | Quantity- and context-aware grouping (e.g. multi-fixture runs vs. balanced pairs) depending on room and surface |
+| Bath Fixture | Light-count–driven layout, sized and centered to the vanity/mirror |
+| Wall Sconce | Symmetrical pairing around architectural focal points |
+| Chandelier | Centered over the primary surface with correct perspective alignment |
+| Floor Lamp | Corner and surface-anchored positioning |
+| Outdoor Post | Balanced, code-aware placement along entries and pathways |
 
 *...and 150 more specific rules covering every fixture × room combination.*
 
