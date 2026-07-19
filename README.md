@@ -117,7 +117,7 @@ Import product specifications from `.xlsx` or `.csv` files — auto-maps columns
 
 ### Key Engineering Challenges Solved
 
-**Precise Fixture Placement — Generative image models default to "hero product" composition, placing fixtures in the foreground instead of their correct architectural position. VizionIt Pro uses a custom multi-step pipeline to achieve accurate placement that respects real-world installation standards.
+**Precise Fixture Placement** — Generative image models default to "hero product" composition, placing fixtures in the foreground instead of their correct architectural position. VizionIt Pro uses a custom multi-step pipeline to achieve accurate placement that respects real-world installation standards.
 
 **Consistent Marketing Copy** — A separated image + copy architecture ensures every room scene gets consistent, high-quality marketing descriptions regardless of the image generation model's text output variability.
 
