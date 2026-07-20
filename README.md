@@ -30,8 +30,8 @@ VizionIt Pro replaces that entire workflow with a single product photo and AI.
 
 ## Demo
 
-> 🎬 **[Watch the full demo on LinkedIn →](https://www.linkedin.com/posts/activity-7440469082165936128-fOCg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAt0dNEBiwKlYp15VgovJtKZU8Xpx-FQkoA)**
-
+> 🎬 **[Watch the full demo HERE →]**
+> 
 https://github.com/user-attachments/assets/ae6fe7e1-1970-4e00-8e23-9af8c85438df
 
 ---
